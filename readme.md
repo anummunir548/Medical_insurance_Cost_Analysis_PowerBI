@@ -96,5 +96,7 @@ By turning raw insurance data into interactive analytics, this project highlight
 - 🔎 Build **drill-through pages** for patient-level analysis.  
 - 📡 Connect with **real-world APIs** for live healthcare data.  
 
+
 ## 📸 Dashboard Preview
-![Insurance Dashboard](Medical Insurance Cost Analysis Dashboard.png)
+<img src="Medical Insurance Cost Analysis Dashboard.png" alt="Insurance Dashboard" width="700"/>
+
