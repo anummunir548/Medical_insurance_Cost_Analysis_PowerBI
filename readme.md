@@ -49,7 +49,6 @@ The main goals of this project are to:
 ### 3. Calculated Measures (DAX)  
 
 **Total Charges**  
-```DAX
 Total Charges = SUM(insurance[charges])
 ## 🔹 Dashboard Features 🎨  
 The dashboard provides a **comprehensive view of insurance costs** with dynamic filtering and drill-down options.  
@@ -98,4 +97,4 @@ By turning raw insurance data into interactive analytics, this project highlight
 - 📡 Connect with **real-world APIs** for live healthcare data.  
 
 ## 📸 Dashboard Preview
-![Insurance Dashboard](images/dashboard.png)
+![Insurance Dashboard](Medical Insurance Cost Analysis Dashboard.png)
